@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+langgraph
+langchain
+langchain-text-splitters
+langchain-community
+langchain-huggingface
+langchain-groq
+faiss-cpu
+youtube-transcript-api
+sentence-transformers
+torchvision
