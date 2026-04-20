@@ -3,3 +3,5 @@ cookies.txt
 __pycache__/
 *.pyc
 db/faiss_index/
+cookies.txt
+
